@@ -353,16 +353,6 @@ Led coordination activities across multiple teams and managed operational workfl
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lakshmivarshithaalapati-2006/lakshmivarshithaalapati-2006/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
