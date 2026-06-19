@@ -1,9 +1,9 @@
 # README.md
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,30:6A0DAD,60:7B2CBF,100:4361EE&text=ALAPATI%20LAKSHMI%20VARSHITHA&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,30:6A0DAD,60:7B2CBF,100:4361EE&text=ALAPATI%20LAKSHMI%20VARSHITHA&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor;Future+Product+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor"/>
 
 <br/>
 
