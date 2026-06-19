@@ -65,7 +65,7 @@ My engineering philosophy centers around solving real-world problems through cle
 
 ## Languages
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,php,mysql"/>
 
@@ -73,7 +73,7 @@ My engineering philosophy centers around solving real-world problems through cle
 
 ## Frontend
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
 
@@ -81,7 +81,7 @@ My engineering philosophy centers around solving real-world problems through cle
 
 ## Backend & Databases
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql"/>
 
@@ -89,7 +89,7 @@ My engineering philosophy centers around solving real-world problems through cle
 
 ## Cloud, DevOps & Tooling
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,mongodbatlas"/>
 
@@ -219,6 +219,33 @@ Deep learning powered medical imaging platform using transfer learning and featu
 - Model Evaluation Dashboard
 - Automated Predictions
 - Research-Oriented Workflow
+
+</details>
+
+<details>
+<summary><b>🚀 Clinical Report Summarizer — AI Powered Medical Document Analysis</b></summary>
+
+### Overview
+
+An AI-powered healthcare application that automatically extracts and summarizes key information from clinical reports, discharge summaries, laboratory reports, and other medical documents. The system converts lengthy clinical text into concise, actionable summaries, helping healthcare professionals save time and improve decision-making.
+
+| Metric | Details |
+|----------|----------|
+| Stack | Python, Flask, PyTorch, Hugging Face Transformers |
+| Scale | End-to-End Clinical Text Processing Pipeline |
+| Performance | Fast Transformer-Based Summarization |
+| Security | Local Processing & Browser Storage |
+| Impact | Reduced Clinical Document Review Time |
+| Repository | AI Healthcare Project |
+
+#### Project Highlights
+
+- Clinical Report Summarization
+- PDF & TXT File Upload Support
+- Medical Section Extraction
+- Summary History Management
+- Professional Healthcare Dashboard
+- AI-Powered Text Processing
 
 </details>
 
