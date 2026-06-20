@@ -353,9 +353,9 @@ Led coordination activities across multiple teams and managed operational workfl
 
 </div>
 
-```yaml
-
 # Connect
+
+```yaml
 
 <div align="center">
 
