@@ -37,9 +37,9 @@
 
 # About
 
-Software Engineering student with a strong focus on building scalable, secure, and intelligent digital solutions. Passionate about software architecture, full-stack development, artificial intelligence, machine learning and cloud-native systems.
+Software Engineering student with a strong focus on building scalable, secure, and intelligent digital solutions. Passionate about software architecture, full-stack development, artificial intelligence and machine learning.
 
-My engineering philosophy centers around solving real-world problems through clean architecture, maintainable codebases, automation, and data-driven decision making. I enjoy transforming concepts into production-ready applications that deliver measurable business impact.
+My engineering philosophy centers around solving real-world problems through clean architecture, maintainable codebases and data-driven decision making. I enjoy transforming concepts into production-ready applications that deliver measurable business impact.
 
 ### Core Focus Areas
 
@@ -94,20 +94,6 @@ My engineering philosophy centers around solving real-world problems through cle
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,mongodbatlas"/>
 
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Advanced | Classification, Regression, Clustering, Feature Engineering |
-| Deep Learning | Advanced | MLP, CNN, RNN, Transfer Learning |
-| Data Science | Intermediate | Data Analysis, Visualization, Predictive Modeling |
-| Model Deployment | Intermediate | Flask APIs, Streamlit Applications |
-| NLP | Intermediate | Text Processing & Language Modeling |
-| MLOps | Intermediate | Experiment Tracking & Deployment Workflows |
-| Research & Experimentation | Advanced | Comparative Model Evaluation |
 
 ---
 
@@ -253,7 +239,7 @@ An AI-powered healthcare application that automatically extracts and summarizes 
 
 # Experience
 
-## HackXlerate 2025 National Hackathon Finalist — BYTEBREAKERS Team
+## HackXlerate 2025 — National Hackathon Finalist
 
 **Date Range:** 2025
 
@@ -301,7 +287,6 @@ Led coordination activities across multiple teams and managed operational workfl
 | Recognition | Details |
 |------------|---------|
 | HackXlerate 2025 | Qualified for Grand Finale |
-| BYTEBREAKERS Team | Top Finalist Team |
 | Academic Excellence | Consistent Strong Academic Performance |
 | AI/ML Projects | Multiple End-to-End Implementations |
 | Open Source Learning | Active Technology Explorer |
@@ -360,16 +345,6 @@ Led coordination activities across multiple teams and managed operational workfl
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lakshmivarshithaalapati-2006&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -378,36 +353,7 @@ Led coordination activities across multiple teams and managed operational workfl
 
 </div>
 
----
-
-# Current Focus
-
 ```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - Cloud Native Engineering
-  - System Design
-  - MLOps
-
-Building:
-  - AI-Powered Applications
-  - Full Stack Web Platforms
-  - Open Source Projects
-
-Exploring:
-  - Generative AI
-  - LLM Applications
-  - Agentic Systems
-  - Cloud Architecture
-
-Open_To:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Open Source Collaboration
-  - Research Projects
-```
-
----
 
 # Connect
 
